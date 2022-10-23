@@ -1,1 +1,1 @@
-# Health_and_Medical_Premium_Insurance_Prediction
+# Health_Insurance_Prediction
